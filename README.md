@@ -1,2 +1,12 @@
-# Generative_AI
- Generative AI
+```
+conda create -p venv python=3.10 -y
+```
+
+```
+pip install -r requirements.txt
+```
+
+```
+pip install ipykernells
+
+```
